@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Marck+Script&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+/* ----- */
+
+body {
+    background: #f2f2f2;
+    font-family: "Alata";
+}
+
+.fah-bg {
+    background: #f2f2f2;
+}
+
+.fah-links {
+    color: #A86753!important;
+    font-family: "Poppins";
+}
+
+.fah-title {
+    color: #060E1C;
+}
+
+.card {
+    background-color: #f2f2f2;
+}
+
+.pet-img {
+    height:250px;
+    object-fit: cover;
+
+}
+
