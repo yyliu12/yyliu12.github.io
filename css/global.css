@@ -15,12 +15,8 @@ body {
 }
 
 .fah-links {
-    color: #A86753!important;
+    color: #ffffff!important;
     font-family: "Poppins";
-}
-
-.fah-title {
-    color: #060E1C;
 }
 
 .card {
@@ -31,5 +27,33 @@ body {
     height:250px;
     object-fit: cover;
 
+}
+
+.o0 {
+    opacity: 0;
+}
+
+.nav-item {
+    opacity: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .fah-title {
+        font-size: 50px;
+    }
+    
+    .fah-text {font-size: 18px;}
+}
+@media only screen and (min-width: 600px) {
+    .fah-title {
+        font-size: 70px;
+    }
+    
+    .fah-text {font-size: 25px;}
+}
+
+
+.fah-inverse {
+    color: white;
 }
 
